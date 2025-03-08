@@ -1,4 +1,4 @@
-name: first-workflow
+name: first-exercise-workflow
 on: [push, pull_request]
 
 jobs:
@@ -12,6 +12,7 @@ jobs:
 
 
 
+#오답
 
 #name: first-workflow
 #on: [push]
